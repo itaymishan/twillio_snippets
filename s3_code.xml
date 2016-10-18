@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+    <Play>https://s3.amazonaws.com/buzzerbot.com/ela-come-in-buzzerbot.wav</Play>
+    <Play digits="www6"></Play>
+    <Play digits="www6"></Play>
+    <Pause length="3"/>
+    <Sms from="+16475608656" to="+14164561187">9 Bogert Ave Buzzer unlocked!</Sms>
+</Response>
